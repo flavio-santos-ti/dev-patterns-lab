@@ -11,6 +11,6 @@
 
 ## 📦 Projetos disponíveis
 
-| Projeto                                        | Descrição                                                                         |
-| ---------------------------------------------- | --------------------------------------------------------------------------------- |
-| [IocLifetimes.Api](IocLifetimes.Api/README.md) | Demonstra os ciclos de vida (Singleton, Scoped, Transient) no IoC do ASP.NET Core |
+| Projeto                                | Descrição                                                                         |
+| -------------------------------------- | --------------------------------------------------------------------------------- |
+| [IocLifetimes.Api](./IocLifetimes.Api) | Demonstra os ciclos de vida (Singleton, Scoped, Transient) no IoC do ASP.NET Core |
