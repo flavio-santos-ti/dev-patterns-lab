@@ -1,5 +1,7 @@
 # IocLifetimes.Api
 
+<img src="https://github.com/flavio-santos-ti/dev-patterns-lab/blob/main/assets/banner-dev-patterns-lab.png" alt="Banner Dev Patterns Lab" style="width:100%;" />
+
 [![.NET](https://img.shields.io/badge/.NET-7.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
