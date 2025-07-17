@@ -1,5 +1,7 @@
 # dev-patterns-lab
 
+<img src="./banner-dev-patterns-lab.png" alt="Banner Dev Patterns Lab" style="width:100%;" />
+
 > 💡 Repositório com exemplos práticos para auxiliar desenvolvedores a entenderem e aplicarem **Design Patterns**, **IoC**, e **Arquitetura de Software** moderna com .NET.
 
 ![IoC](https://img.shields.io/badge/IoC-Injeção%20de%20Dependência-purple)
