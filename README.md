@@ -1,6 +1,6 @@
 # dev-patterns-lab
 
-<img src="./banner-dev-patterns-lab.png" alt="Banner Dev Patterns Lab" style="width:100%;" />
+<img src="https://github.com/flavio-santos-ti/dev-patterns-lab/blob/main/assets/banner-dev-patterns-lab.png" alt="Banner Dev Patterns Lab" style="width:100%;" />
 
 > 💡 Repositório com exemplos práticos para auxiliar desenvolvedores a entenderem e aplicarem **Design Patterns**, **IoC**, e **Arquitetura de Software** moderna com .NET.
 
