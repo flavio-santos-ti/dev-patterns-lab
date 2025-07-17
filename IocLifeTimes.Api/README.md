@@ -37,16 +37,16 @@ O endpoint `/guid` retorna duas instâncias injetadas de cada tipo para demonstr
 ```json
 {
   "singleton": {
-    "_singleton1": "SingletonService #1",
-    "_singleton2": "SingletonService #1"
+    "_singleton1": "014ef53c-537d-41c0-8c41-f19d85abb9be",
+    "_singleton2": "014ef53c-537d-41c0-8c41-f19d85abb9be"
   },
   "scoped": {
-    "_scoped1": "ScopedService #2",
-    "_scoped2": "ScopedService #2"
+    "_scoped1": "0ab4f393-a7f8-454e-831a-132d97d76bc6",
+    "_scoped2": "0ab4f393-a7f8-454e-831a-132d97d76bc6"
   },
   "transient": {
-    "_transient1": "TransientService #3",
-    "_transient2": "TransientService #4"
+    "_transient1": "78c4e12a-c10b-4873-a85d-e9b3ee626fbe",
+    "_transient2": "1b575a0c-2a35-4f6e-906f-643587ab8cb7"
   }
 }
 ```
